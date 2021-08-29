@@ -13,5 +13,4 @@ except FileNotFoundError:
 
 print()
 print('- https://github.com/sebeeeeeee/painful-nodejs')
-print("- You should check out my Github! https://github.com/sebeeeeeee")
 
